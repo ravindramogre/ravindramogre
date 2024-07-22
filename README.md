@@ -7,5 +7,5 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: x.com, linkedin, mail
 - 😄 Pronouns: ...
-- ⚡ Fun fact: we coding ai to code for us
+- ⚡ Fun fact: we are coding ai to code for us
 -->
